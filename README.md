@@ -49,7 +49,7 @@
 <br>
 
 ```sh
-git clone https://github.com/avipatilpro/FileStreamBot
+git clone https://github.com/pouya2000/FileStreamBot
 cd FileStreamBot
 python3 -m venv ./venv
 . ./venv/bin/activate

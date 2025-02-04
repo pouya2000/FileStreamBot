@@ -75,7 +75,7 @@ python3 -m FileStream
 <br>
 * Clone the repository:
 ```sh
-git clone https://github.com/avipatilpro/FileStreamBot
+git clone https://github.com/pouya2000/FileStreamBot
 cd FileStreamBot
 ```
 * Build own Docker image:
